@@ -1,13 +1,13 @@
 # Desertification Simulation
 
-This project simulates the spread of desertification using a hexagonal grid-based model. The application is designed to visualize and analyze the dynamics of desertification processes, offering insights into how environmental factors influence degradation over time.
+This project simulates the spread of desertification using a hexagonal grid-based model based on Cellular Automata (CA). The application is designed to visualize and analyze the dynamics of desertification processes, offering insights into how environmental factors influence degradation over time.
 
 ## Features
 - **Hexagonal Grid Simulation**: Realistic interactions between neighboring cells based on environmental parameters.
 - **User-Friendly Interface**: Configure simulation parameters such as grid size, step intervals, and speed.
 - **Real-Time Visualization**: Watch desertification spread dynamically with color-coded grids and adjustable settings.
 - **Data Import/Export**: Load initial conditions from CSV files and save simulation results for further analysis.
-- **Scalable Model**: Adaptable grid sizes with efficient processing for optimal performance.
+- **Experimental Data Generation**: Create own number of clusters to test unusual cases.
 
 ## Getting Started
 
