@@ -4,7 +4,7 @@ This project simulates the spread of desertification using a hexagonal grid-base
 
 ## Features
 - **Hexagonal Grid Simulation**: Realistic interactions between neighboring cells based on environmental parameters.
-- **User-Friendly Interface**: Configure simulation parameters such as step intervals, simualtion speed and length.
+- **User-Friendly Interface**: Configure simulation parameters such as step intervals, simulation speed and length.
 - **Real-Time Visualization**: Watch desertification spread dynamically with color-coded grids and adjustable settings.
 - **Data Import/Export**: Load initial conditions from CSV files and save simulation results for further analysis.
 - **Experimental Data Generation**: Create own number of clusters to test unusual cases.
@@ -29,4 +29,7 @@ This project simulates the spread of desertification using a hexagonal grid-base
    ./DesertificationSimulation.exe
    
 ### Csv Files
-DesertificationSimulation_Data/Resources: Contains input data (CSV files) and stores output data.
+`DesertificationSimulation_Data/Resources`: Contains input data (CSV files) and stores output data.
+
+### Source Code
+`SourceCode`: contains unity's Assets folder.
