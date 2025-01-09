@@ -4,7 +4,7 @@ This project simulates the spread of desertification using a hexagonal grid-base
 
 ## Features
 - **Hexagonal Grid Simulation**: Realistic interactions between neighboring cells based on environmental parameters.
-- **User-Friendly Interface**: Configure simulation parameters such as grid size, step intervals, and speed.
+- **User-Friendly Interface**: Configure simulation parameters such as step intervals, simualtion speed and length.
 - **Real-Time Visualization**: Watch desertification spread dynamically with color-coded grids and adjustable settings.
 - **Data Import/Export**: Load initial conditions from CSV files and save simulation results for further analysis.
 - **Experimental Data Generation**: Create own number of clusters to test unusual cases.
