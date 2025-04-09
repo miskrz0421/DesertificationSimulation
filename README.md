@@ -33,3 +33,15 @@ This project simulates the spread of desertification using a hexagonal grid-base
 
 ### Source Code
 `SourceCode`: contains unity's Assets folder.
+
+## Authors
+
+- **[Kacper Machnik](https://github.com/KacperMachnik)**
+- **[Michał Krzempek](https://github.com/miskrz0421)**
+- **[Tomasz Madeja](https://github.com/Tomciom)**
+
+## License
+
+This project is licensed under the MIT License - see the LICENSE file for details.
+
+---
